@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/td"/>
+    <filter root="/apps/msm/td_blueprint" mode="merge"/>
+</workspaceFilter>
